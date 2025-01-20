@@ -1,10 +1,10 @@
 Installturbotax.com
 ===============
 
-.. image:: images/disney.png
-     :width: 1000px    
+.. image:: Enterlicensecode.png
+     :width: 500px    
      :align: center 
-     :height: 500px
+     :height: 80px
      :alt: Disneyplus.com/begin
      :target: #
 
@@ -16,18 +16,9 @@ Installturbotax.com
 
 **InstallTurboTax.com** is a unique tax preparation website that provides TurboTax software installation instructions or downloads, along with tools to help maximize your tax refund. TurboTax software can be downloaded and installed on your computer in various ways.
 
-How to Install TurboTax
-------------------------
+How to Install TurboTax using Installturbotax.com?
+-------------------------------------------------
 
-.. image:: images/disney.png
-     :width: 1000px    
-     :align: center 
-     :height: 500px
-     :alt: Installturbotax.com
-     :target: https://ww0.us/?aHR0cHM6Ly9kaXNuZXlwbHVzZW50ZXJjb2RlLmdpdGh1Yi5pbw==
-
-
-|
 
 1. Visit `installturbotax.com <#>`_  and click **Sign In** in the top-right corner.
 2. Sign in with your TurboTax account or click **Create Account** to register.
@@ -39,7 +30,7 @@ How to Install TurboTax
 Install TurboTax with CD Drive
 ------------------------------
 
-.. image:: images/disney.png
+.. image:: Install TurboTax with CD Drive.png
      :width: 1000px    
      :align: center 
      :height: 500px
@@ -49,7 +40,7 @@ Install TurboTax with CD Drive
 
 |
 
-To install TurboTax using a CD drive, follow these steps:
+**To install TurboTax using a CD drive, follow these steps:**
 
 1. Insert the TurboTax CD into your computer's CD drive.
 2. If the installation doesn't start automatically, open your CD drive and double-click `Setup.exe` to begin.
@@ -61,17 +52,8 @@ To install TurboTax using a CD drive, follow these steps:
 Install TurboTax without CD Drive
 ---------------------------------
 
-.. image:: images/disney.png
-     :width: 1000px    
-     :align: center 
-     :height: 500px
-     :alt: Installturbotax.com
-     :target: https://ww0.us/?aHR0cHM6Ly9kaXNuZXlwbHVzZW50ZXJjb2RlLmdpdGh1Yi5pbw==
 
-
-|
-
-To install TurboTax without a CD drive, follow these steps:
+**To install TurboTax without a CD drive, follow these steps:**
 
 1. Visit `installturbotax.com <#>`_  and purchase TurboTax online.
 2. Download the software and double-click the file to start the installation.
