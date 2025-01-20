@@ -30,10 +30,10 @@ How to Install TurboTax using Installturbotax.com?
 Install TurboTax with CD Drive
 ------------------------------
 
-.. image:: InstallTurboTaxwithCDDrive
-     :width: 500px    
+.. image:: InstallTurboTaxwithCDDrive.png
+     :width: 800px    
      :align: center 
-     :height: 80px
+     :height: 400px
      :alt: Installturbotax.com
      :target: #
 
