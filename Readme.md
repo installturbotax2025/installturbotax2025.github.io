@@ -21,7 +21,7 @@
 
 <div align="center">
   <a href="https://installturbotax2025.github.io/">
-    <img src="Install TurboTax with CD Drive.png" alt="InstallTurboTax.com" title="InstallTurboTax.com">
+    <img src="InstallTurboTaxwithCDDrive.png" alt="InstallTurboTax.com" title="InstallTurboTax.com">
   </a>
 </div>
 To install TurboTax using a CD drive, follow these steps:
