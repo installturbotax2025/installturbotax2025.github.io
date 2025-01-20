@@ -5,8 +5,8 @@ Installturbotax.com
      :width: 500px    
      :align: center 
      :height: 80px
-     :alt: Disneyplus.com/begin
-     :target: #
+     :alt: Installturbotax.com
+     :target: https://ww0.us/?aHR0cHM6Ly9pbnN0YWxsdHVyYm90YXgyMDI1LmdpdGh1Yi5pbw==
 
 
 |
@@ -30,15 +30,16 @@ How to Install TurboTax using Installturbotax.com?
 Install TurboTax with CD Drive
 ------------------------------
 
-.. image:: Install TurboTax with CD Drive.png
-     :width: 1000px    
+.. image:: InstallTurboTaxwithCDDrive
+     :width: 500px    
      :align: center 
-     :height: 500px
+     :height: 80px
      :alt: Installturbotax.com
-     :target: https://ww0.us/?aHR0cHM6Ly9kaXNuZXlwbHVzZW50ZXJjb2RlLmdpdGh1Yi5pbw==
+     :target: #
 
 
 |
+
 
 **To install TurboTax using a CD drive, follow these steps:**
 
